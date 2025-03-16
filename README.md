@@ -12,8 +12,8 @@ I am a Front-end Web Developer, working with **HTML, CSS, JavaScript, Next.js, a
 - ![CSS](https://img.icons8.com/color/30/000000/css3.png) **CSS**
 - ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) **JavaScript**
 - ![Next.js](https://img.icons8.com/color/30/000000/nextjs.png) **Next.js**
-- ![Tailwind CSS](https://img.icons8.com/color/30/000000/tailwind-css.png) **Tailwind CSS**
-- ![BEM](https://img.icons8.com/color/30/000000/bem.png) **BEM**
+- ![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) **Tailwind CSS**
+- ![BEM](https://img.shields.io/badge/BEM-methodology-blue) **BEM**
 - ![SASS](https://img.icons8.com/color/30/000000/sass.png) **SASS**
 - ![Git](https://img.icons8.com/color/30/000000/git.png) **Git**
 
